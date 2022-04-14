@@ -9,6 +9,7 @@
 </p>
 <br />
 
+![Juan Ibarra's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-ibarra&theme=merko&show_icons=true)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
